@@ -1,0 +1,3 @@
+﻿  lab42.cpp
+D:\Юра\lab42\lab42\lab42.cpp(23,9): warning C4804: '<=': unsafe use of type 'bool' in operation
+  lab42.vcxproj -> D:\Юра\lab42\x64\Debug\lab42.exe
